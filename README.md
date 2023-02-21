@@ -10,7 +10,7 @@
     <img
       src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=efc71f&style=plastic&logo=linkedin&logo-color=white"
     />
- </a>
+ </a><br>
 </div>
 
 ```dart
