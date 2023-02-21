@@ -11,13 +11,29 @@
 
 ```dart
 const aboutMe = { 
+
   skills: [ 'Javascript', 'React', 'HTML', 'CSS', 'TypeScript', 'TailwindCSS', 'Material-UI' ],
   interests: [ 'hiking', 'photography', 'animals', 'art', 'gaming', 'birb memes' ],
   funFact: 'Former graphic designer',
   pronouns: 'she/her'
+  
 }
 ```
+<div align="center" width="70">
 
+  <a href="https://linkedin.com/jlu9d2" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=d9881a&style=plastic&logo=linkedin&logo-color=white"
+    />
+ </a>
+  
+ <a href="https://linkedin.com/jlu9d2" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=E-MAIL&color=d9881a&style=plastic&logo=gmail&logo-color=white"
+    />
+ </a>
+  
+</div>
 <!--
 **jlu9d2/jlu9d2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
