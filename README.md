@@ -7,13 +7,13 @@
 <br>
 <img alt="GIF" src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/h0bvA1A8.gif" /><br>
 <br>
-  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/jlu9d2/) 
+
+</div>
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/jlu9d2/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/jlu9d2)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/codejoy9d2)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:codejoy9d2@gmail.com)
-</div>
-
-
 
 ```dart
 const aboutMe = { 
