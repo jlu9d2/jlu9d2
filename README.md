@@ -3,12 +3,12 @@
 <div align="center" width="70">
 
 <img src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/Joy_swe_banner.png" alt="coding rocks"  width="60%"/><br> 
-<p><strong>Coder by the day. Artist by night.</strong></p>
+<p><strong>✨Coder by the day. Artist by night.✨</strong></p>
 <br>
   
 <img alt="GIF" src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/h0bvA1A8.gif" />
 </div>
-  
+# About ME 💬 :  
 ```dart
 const aboutMe = { 
   skills: [ 'Javascript', 'React', 'HTML', 'CSS', 'TypeScript', 'TailwindCSS', 'Material-UI' ],
