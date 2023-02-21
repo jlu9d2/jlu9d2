@@ -14,10 +14,10 @@
 ```dart
 const aboutMe = { 
 
+  pronouns: 'she/her',
   skills: [ 'Javascript', 'React', 'HTML', 'CSS', 'TypeScript', 'TailwindCSS', 'Material-UI' ],
   interests: [ 'hiking', 'photography', 'animals', 'art', 'birb memes', 'esoteric stuff' ],
-  funFact: 'Former graphic designer',
-  pronouns: 'she/her'
+  funFact: 'Former graphic designer'
   
 }
 ```
