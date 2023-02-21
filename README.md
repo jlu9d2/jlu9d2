@@ -7,9 +7,9 @@
 <br>
   
 <img alt="GIF" src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/h0bvA1A8.gif" />
-# About ME 💬 :  
+ 
 </div>
-
+### About ME 💬 : 
 ```dart
 const aboutMe = { 
   skills: [ 'Javascript', 'React', 'HTML', 'CSS', 'TypeScript', 'TailwindCSS', 'Material-UI' ],
