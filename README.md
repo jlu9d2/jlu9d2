@@ -7,6 +7,11 @@
 <br>
 
 <img alt="GIF" src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/h0bvA1A8.gif" />
+  <a href="https://www.linkedin.com/in/jlu9d2/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=efc71f&style=plastic&logo=linkedin&logo-color=white"
+    />
+ </a>
 </div>
 
 ```dart
@@ -19,21 +24,7 @@ const aboutMe = {
   
 }
 ```
-<div align="center" width="70">
 
-  <a href="https://www.linkedin.com/in/jlu9d2/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=efc71f&style=plastic&logo=linkedin&logo-color=white"
-    />
- </a>
-  
- <a href="https://linkedin.com/jlu9d2" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=|&message=E-MAIL&color=efc71f&style=plastic&logo=gmail&logo-color=white"
-    />
- </a>
-  
-</div>
 <!--
 **jlu9d2/jlu9d2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
