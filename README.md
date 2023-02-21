@@ -23,13 +23,13 @@ const aboutMe = {
 
   <a href="https://linkedin.com/jlu9d2" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=d9881a&style=plastic&logo=linkedin&logo-color=white"
+      src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=efc71f&style=plastic&logo=linkedin&logo-color=white"
     />
  </a>
   
  <a href="https://linkedin.com/jlu9d2" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?label=|&message=E-MAIL&color=d9881a&style=plastic&logo=gmail&logo-color=white"
+      src="https://img.shields.io/static/v1?label=|&message=E-MAIL&color=efc71f&style=plastic&logo=gmail&logo-color=white"
     />
  </a>
   
