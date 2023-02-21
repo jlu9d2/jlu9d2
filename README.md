@@ -3,7 +3,7 @@
 <div align="center" width="70">
 
 <img src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/Joy_swe_banner_v2.png" alt="coding rocks"  width="60%"/><br><br>
-<a src="https://standardresume.co/r/-hI3TlefutZBYHUegq-q8"><p><strong>✨ Coder by the day. Artist by night. ✨</strong></p></a>
+<p><strong>✨ <a href="https://standardresume.co/r/-hI3TlefutZBYHUegq-q8">Coder by the day. Artist by night.</a> ✨</strong></p>
 <br>
 <img alt="GIF" src="https://github.com/jlu9d2/jlu9d2/blob/main/assets/h0bvA1A8.gif" />
 </div>
